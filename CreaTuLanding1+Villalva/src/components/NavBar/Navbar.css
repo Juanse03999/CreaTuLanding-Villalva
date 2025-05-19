@@ -1,0 +1,11 @@
+
+.navbar {
+    height: 30px;
+    width: 100vw;
+    display: flex;
+    background-color: red;
+}
+
+ul {
+    display: flex;
+}
